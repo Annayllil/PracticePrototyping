@@ -23,5 +23,6 @@ Files:
 - `Product.js` — script that toggles the instructions overlay and handles navigation between pages.
 
 How to view:
-1. How to run: run this link in a web browser: https://github.com/Annayllil/PracticePrototyping
+1. How to run: run this link in a web browser: https://annayllil.github.io/PracticePrototyping/
+
 
